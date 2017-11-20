@@ -210,11 +210,11 @@ h2 {
 
 ul {
 	list-style-type: none;
-	margin:0;
 	padding:0;
 	word-spacing: 10px;
-	float:right;
-}
+	position: absolute;
+	margin-left: 820px;
+}	
 
 li {
 	margin-top: 10px;
