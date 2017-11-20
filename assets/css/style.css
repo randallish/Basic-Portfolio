@@ -42,7 +42,7 @@
 }
 
 
-.imagetext1 {
+.hangman-text {
 	background-color: #4aaaa5;
 	color:#ffffff;
 	position:absolute;
@@ -54,7 +54,7 @@
 }
 
 
-.imagetext2 {
+.trivia-text {
 	background-color: #4aaaa5;
 	color: #ffffff;
 	width: 168px;	
@@ -64,7 +64,7 @@
 	font-size:20px;
 }
 
-.imagetext3 {
+.rps-text {
 	position: absolute;
 	background-color: #4aaaa5; 
 	color: #ffffff; 
@@ -74,7 +74,7 @@
 	text-align:center;
 }
 
-.imagetext4 {
+.rpg-text {
 	background-color: #4aaaa5;
 	font-size: 20px;
 	width: 168px;
@@ -84,7 +84,7 @@
 	text-align:center;
 }
 
-.imagetext5 {
+.rutgers-text {
 	background-color: #4aaaa5;
 	width: 168px;
 	color: #ffffff;
@@ -97,7 +97,7 @@
 
 .portfolio-pic {
 	border: 1px solid #dddddd;
-	width: 166px;
+	width: 167px;
 }
 
 
